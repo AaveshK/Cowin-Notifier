@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAaveshK%2FCowin-Notifier&count_bg=%2324A620&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## What does it do?
-### Informs you about all the available slots for you within a week
+### Informs you about all the vaccination slots available for you within a week
 ## Platform supported
 >Windows
 ## Installation
